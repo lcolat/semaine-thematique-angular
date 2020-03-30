@@ -1,0 +1,26 @@
+{
+  "name": "semaine-thematique-angular",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcolat/semaine-thematique-angular.git"
+  },
+  "author": "Loïc Colat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcolat/semaine-thematique-angular/issues"
+  },
+  "homepage": "https://github.com/lcolat/semaine-thematique-angular#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.4",
+    "ts-jest": "^25.3.0",
+    "typescript": "^3.8.3"
+  }
+}
